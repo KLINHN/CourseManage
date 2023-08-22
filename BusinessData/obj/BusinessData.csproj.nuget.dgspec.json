@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj": {}
+    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj": {
+    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj",
+        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj",
         "projectName": "BusinessData",
-        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj",
+        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\obj\\",
+        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

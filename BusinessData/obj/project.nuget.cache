@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E1yP9Se64L61rkS3KE5I2ZzdfW5Mbioc64bscDiRUiIBh6VQ21RBAJzwCJSmrzL/Vzh6buZZV+Ffq1olUtg9xw==",
+  "dgSpecHash": "ch2ifYlHmj5ghA5Pd7rjKEvWdtptbnoMdIIVIALvSvaz6x9sR7ntxzKydNQSaEoYsdCmRRLR0z4LRCWR8pW/1g==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj",
+  "projectFilePath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

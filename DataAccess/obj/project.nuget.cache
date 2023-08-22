@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6k6mS+Y9LEYJlMcrDGMOzoCLe9ATJybQS/qZLYewR69eQGyi2G0zCAxvUgxWnjq7UJVbmSIEp4bylrwxuPXkg==",
+  "dgSpecHash": "Dg6bbnTZtiKGzOEDvdFojHBOgI2JB1eBgfBUu43T+obI6LjS1Z0P0dOa17VAuyw51U9ky8ykVwMPoJ/cdS333A==",
   "success": true,
-  "projectFilePath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

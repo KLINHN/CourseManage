@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\DataAccess\\DataAccess.csproj": {}
+    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj": {
+    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj",
+        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj",
         "projectName": "BusinessData",
-        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj",
+        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\obj\\",
+        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\DataAccess\\DataAccess.csproj": {
+    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\DataAccess\\obj\\",
+        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj": {
-                "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManagement\\BusinessData\\BusinessData.csproj"
+              "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj": {
+                "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj"
               }
             }
           }
