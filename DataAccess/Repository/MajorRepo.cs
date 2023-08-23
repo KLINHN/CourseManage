@@ -10,5 +10,6 @@ namespace DataAccess.Repository
 {
     public class MajorRepo : RepositoryBase<Major>
     {
+        public MajorRepo(CourseManageContext context) : base(context) { }
     }
 }

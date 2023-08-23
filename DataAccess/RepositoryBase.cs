@@ -9,7 +9,7 @@ namespace Repository
     {
         private readonly CourseManageContext _context;
         private readonly DbSet<T> _dbSet;
-        public RepositoryBase()
+        public RepositoryBase(CourseManageContext context)
         {
             _context = new CourseManageContext  ();
             _dbSet = _context.Set<T>();
@@ -36,6 +36,10 @@ namespace Repository
             tracker.State = EntityState.Modified;
             //_dbSet.Update(entity);
             _context.SaveChanges();
+        }
+        public T getById(object id)
+        {
+            return _dbSet.Find(id);
         }
     }
 }

@@ -10,5 +10,6 @@ namespace DataAccess.Repository
 {
     public class SessionRepo : RepositoryBase<Session>
     {
+        public SessionRepo(CourseManageContext context) : base(context) { }
     }
 }

@@ -10,5 +10,6 @@ namespace DataAccess.Repository
 {
     public class StudentRepo : RepositoryBase<Student>
     {
+        StudentRepo(CourseManageContext context) : base(context) { }
     }
 }

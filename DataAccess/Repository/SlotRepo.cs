@@ -10,5 +10,6 @@ namespace DataAccess.Repository
 {
     public class SlotRepo : RepositoryBase<Slot>
     {
+        SlotRepo(CourseManageContext context) : base(context) { }
     }
 }

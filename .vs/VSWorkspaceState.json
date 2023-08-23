@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DataAccess"
+    "\\DataAccess",
+    "\\DataAccess\\Repository"
   ],
-  "SelectedNode": "\\DataAccess\\RepositoryBase.cs",
+  "SelectedNode": "\\DataAccess\\Repository\\AttendanceRepo.cs",
   "PreviewInSolutionExplorer": false
 }

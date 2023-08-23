@@ -10,5 +10,6 @@ namespace DataAccess.Repository
 {
     public class AttendanceRepo : RepositoryBase<Attendance>
     {
+        public AttendanceRepo(CourseManageContext context) : base(context) { }
     }
 }
