@@ -12,3 +12,17 @@ D:\FPT\PRN221\Assignment\CourseManagement\BusinessData\obj\Debug\net6.0\Business
 D:\FPT\PRN221\Assignment\CourseManagement\BusinessData\obj\Debug\net6.0\ref\BusinessData.dll
 D:\FPT\PRN221\Assignment\CourseManagement\BusinessData\bin\Debug\net6.0\BusinessData.runtimeconfig.json
 D:\FPT\PRN221\Assignment\CourseManagement\BusinessData\obj\Debug\net6.0\BusinessData.genruntimeconfig.cache
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.deps.json
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.runtimeconfig.json
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.dll
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.pdb
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.csproj.AssemblyReference.cache
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.AssemblyInfoInputs.cache
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.AssemblyInfo.cs
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.csproj.CoreCompileInputs.cache
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.dll
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\refint\BusinessData.dll
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.pdb
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.genruntimeconfig.cache
+D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\ref\BusinessData.dll
