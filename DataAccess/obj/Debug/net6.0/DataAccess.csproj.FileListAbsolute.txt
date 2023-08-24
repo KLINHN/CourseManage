@@ -13,3 +13,18 @@ D:\FPT\PRN221\Assignment\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.dll
 D:\FPT\PRN221\Assignment\CourseManage\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 D:\FPT\PRN221\Assignment\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 D:\FPT\PRN221\Assignment\CourseManage\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\bin\Debug\net6.0\BusinessData.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\bin\Debug\net6.0\BusinessData.pdb
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj": {}
+    "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj": {
+    "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\BusinessData\\BusinessData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj",
+        "projectUniqueName": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\BusinessData\\BusinessData.csproj",
         "projectName": "BusinessData",
-        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\obj\\",
+        "projectPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\BusinessData\\BusinessData.csproj",
+        "packagesPath": "C:\\Users\\HuuManh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\BusinessData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HuuManh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,7 +46,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -57,13 +56,21 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.20, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -82,24 +89,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj": {
+    "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj",
+        "projectUniqueName": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj",
         "projectName": "CourseManagementWeb",
-        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\CourseManagementWeb\\obj\\",
+        "projectPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\CourseManagementWeb\\CourseManagementWeb.csproj",
+        "packagesPath": "C:\\Users\\HuuManh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\CourseManagementWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HuuManh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,15 +115,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -165,24 +171,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\HuuManh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HuuManh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -191,15 +197,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj": {
-                "projectPath": "D:\\FPT\\PRN221\\Assignment\\CourseManage\\BusinessData\\BusinessData.csproj"
+              "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\BusinessData\\BusinessData.csproj": {
+                "projectPath": "C:\\Users\\HuuManh\\Desktop\\Temp\\SP\\Anh Linh\\CourseManage\\BusinessData\\BusinessData.csproj"
               }
             }
           }
@@ -229,7 +234,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

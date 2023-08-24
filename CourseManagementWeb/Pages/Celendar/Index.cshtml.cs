@@ -11,21 +11,48 @@ namespace CourseManagementWeb.Pages.Celendar
 {
     public class IndexModel : PageModel
     {
-        private readonly BusinessData.Models.CourseManageContext _context;
+        public List<List<DateTime?>> Calendar { get; set; } = null!;
 
-        public IndexModel(BusinessData.Models.CourseManageContext context)
+        public void OnGet()
         {
-            _context = context;
+            Calendar = GenerateCalendar(DateTime.Today.Year, DateTime.Today.Month);
         }
 
-        public IList<Slot> Slot { get;set; } = default!;
-
-        public async Task OnGetAsync()
+        private List<List<DateTime?>> GenerateCalendar(int year, int month)
         {
-            if (_context.Slots != null)
+            var calendar = new List<List<DateTime?>>();
+
+            DateTime startDate = new DateTime(year, month, 1);
+            int daysInMonth = DateTime.DaysInMonth(year, month);
+            int offset = (int)startDate.DayOfWeek;
+
+            var week = new List<DateTime?>();
+            for (int i = 0; i < offset; i++)
             {
-                Slot = await _context.Slots.ToListAsync();
+                week.Add(null);
             }
+
+            for (int day = 1; day <= daysInMonth; day++)
+            {
+                week.Add(new DateTime(year, month, day));
+
+                if (week.Count == 7)
+                {
+                    calendar.Add(week);
+                    week = new List<DateTime?>();
+                }
+            }
+
+            if (week.Count > 0)
+            {
+                while (week.Count < 7)
+                {
+                    week.Add(null);
+                }
+                calendar.Add(week);
+            }
+
+            return calendar;
         }
     }
 }

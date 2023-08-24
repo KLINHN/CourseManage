@@ -1,7 +1,7 @@
 ﻿@page
 @model CourseManagementWeb.Pages.Celendar.IndexModel
 
-@{
+@*@{
     ViewData["Title"] = "Index";
 }
 
@@ -38,5 +38,70 @@
             </td>
         </tr>
 }
+    </tbody>
+</table>*@
+
+@{
+    ViewData["Title"] = "Calendar Page";
+}
+
+<style>
+    th {
+        background-color: blue;
+        color: white;
+        text-align: center;
+        padding-inline: 80px;
+        padding-block: 10px;
+    }
+
+    td {
+        text-align: center;
+        padding: 10px;
+        border: 1px solid #ccc;
+    }
+</style>
+
+<table>
+    <thead>
+        <tr>
+            <th>Slots</th>
+            <th>Sun</th>
+            <th>Mon</th>
+            <th>Tue</th>
+            <th>Wed</th>
+            <th>Thu</th>
+            <th>Fri</th>
+            <th>Sat</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (var i = 0; i < 9; i++)
+        {
+            <tr>
+                @if (i == 0)
+                {
+                    <td></td>
+                }
+                else
+                {
+                    <td>@(i)</td>
+                }
+
+                @if (i == 0)
+                {
+                    @foreach (var date in Model.Calendar[1])
+                    {
+                        <td>@(date.HasValue ? date.Value.ToString("dd/MM") : "")</td>
+                    }
+                }
+                else
+                {
+                    for (var j = 0; j < 7; j++)
+                    {
+                        <td></td>
+                    }
+                }
+            </tr>
+        }
     </tbody>
 </table>

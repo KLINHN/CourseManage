@@ -13,19 +13,20 @@
     <div class="col-md-4">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
+            @*<div class="form-group">
                 <label asp-for="Slot.Id" class="control-label"></label>
                 <input asp-for="Slot.Id" class="form-control" />
                 <span asp-validation-for="Slot.Id" class="text-danger"></span>
-            </div>
+            </div>*@
+            <input hidden asp-for="Slot.Id" value="0" class="form-control" />
             <div class="form-group">
                 <label asp-for="Slot.TimeEnd" class="control-label"></label>
-                <input asp-for="Slot.TimeEnd" class="form-control" />
+                <input type="time" asp-for="Slot.TimeEnd" class="form-control" />
                 <span asp-validation-for="Slot.TimeEnd" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Slot.TimeStart" class="control-label"></label>
-                <input asp-for="Slot.TimeStart" class="form-control" />
+                <input type="time" asp-for="Slot.TimeStart" class="form-control" />
                 <span asp-validation-for="Slot.TimeStart" class="text-danger"></span>
             </div>
             <div class="form-group">

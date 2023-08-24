@@ -26,3 +26,17 @@ D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\refint\Busin
 D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.pdb
 D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.genruntimeconfig.cache
 D:\FPT\PRN221\Assignment\CourseManage\BusinessData\obj\Debug\net6.0\ref\BusinessData.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.deps.json
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.runtimeconfig.json
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\bin\Debug\net6.0\BusinessData.pdb
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.csproj.AssemblyReference.cache
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.AssemblyInfoInputs.cache
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.AssemblyInfo.cs
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.csproj.CoreCompileInputs.cache
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\refint\BusinessData.dll
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.pdb
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\BusinessData.genruntimeconfig.cache
+C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\BusinessData\obj\Debug\net6.0\ref\BusinessData.dll
