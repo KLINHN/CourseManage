@@ -9,77 +9,217 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseManagementWeb
 build_property.RootNamespace = CourseManagementWeb
-build_property.ProjectDir = C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\CourseManagementWeb\
+build_property.ProjectDir = D:\FPT\PRN221\Assignment\CourseManage\CourseManagementWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HuuManh\Desktop\Temp\SP\Anh Linh\CourseManage\CourseManagementWeb
+build_property.MSBuildProjectDirectory = D:\FPT\PRN221\Assignment\CourseManage\CourseManagementWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Celendar/Create.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Attendances/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0ZW5kYW5jZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Attendances/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0ZW5kYW5jZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Attendances/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0ZW5kYW5jZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Attendances/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0ZW5kYW5jZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Attendances/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXR0ZW5kYW5jZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Celendar/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VsZW5kYXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Celendar/Delete.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Celendar/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VsZW5kYXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Celendar/Details.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Celendar/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VsZW5kYXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Celendar/Edit.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Celendar/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VsZW5kYXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Celendar/Index.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Celendar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2VsZW5kYXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Error.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Index.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Privacy.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Majors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFqb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Majors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFqb3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Majors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFqb3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Majors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFqb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Majors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFqb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Rooms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Rooms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Rooms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Rooms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Rooms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9vbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Semesters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Semesters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Semesters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Semesters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Semesters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VtZXN0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Sessions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Sessions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Sessions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Sessions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Sessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Students/Create.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Students/Delete.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Students/Details.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Students/Edit.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Students/Index.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/_ViewImports.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Subjects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Subjects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Subjects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Subjects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Subjects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/_ViewStart.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HuuManh/Desktop/Temp/SP/Anh Linh/CourseManage/CourseManagementWeb/Pages/Shared/_Layout.cshtml]
+[D:/FPT/PRN221/Assignment/CourseManage/CourseManagementWeb/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zg8i9ewrog
